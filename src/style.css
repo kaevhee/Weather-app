@@ -1,0 +1,40 @@
+body {
+  color: rgb(67, 124, 128);
+  background-color: #eaf6f6;
+}
+
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  padding: 10px;
+}
+a {
+  color: rgb(67, 124, 128);
+}
+
+#contact {
+  color: rgb(224, 219, 219);
+  background-color: crimson;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 10%;
+  padding: 15px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+#contact:hover {
+  color: crimson;
+  background-color: white;
+  transition: 200ms ease-in-out;
+}
+#temp {
+  text-align: center;
+  padding: 20px;
+}
